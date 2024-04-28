@@ -1,8 +1,6 @@
 # 👋 Hello, World!
 
-We’re the technical staff behind the  project and proud parts of the  GitHub organization. Our mission is to develop tools and platforms that empower users to understand, analyze, and optimize networks and internet networking.
-
-We are the technical team behind the [**WebSniffer**](https://websniffer.com) project and proud members of the [**WebSnifferHQ**](https://github.com/WebSnifferHQ) GitHub organization. Our mission is to develop tools and platforms that enable users to understand, analyze, and optimize networks and Internet connectivity.
+We are the technical team behind the [**WebSniffer**](https://websniffer.com/) project and proud members of the [**WebSnifferHQ**](https://github.com/WebSnifferHQ) GitHub organization. Our mission is to develop tools and platforms that enable users to understand, analyze, and optimize networks and Internet connectivity.
 
 ## 👀 What We're Interested In
 
