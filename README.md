@@ -31,3 +31,5 @@ We're on the lookout for contributors who are passionate about networks, interne
 ## ⚡ Fun Fact
 
 IPv4 is a 32-bit address system, which means it provides approximately 4.3 billion addresses. However, the actual usable address space is significantly less. There is a major design flaw in IPv4 wherein we waste more IP addresses than we use.
+
+[![An image of @websniffercom's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/websniffercom)](https://holopin.io/@websniffercom)
